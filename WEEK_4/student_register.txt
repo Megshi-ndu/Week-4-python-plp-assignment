@@ -1,0 +1,4 @@
+student_name, student_id, student_grade
+John Mwangi, 12345, A
+Rose Wanja, 67890, B
+Peter Kamau, 11223, A-
